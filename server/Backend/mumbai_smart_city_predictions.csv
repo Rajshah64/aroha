@@ -1,0 +1,838 @@
+Region,Year,Feature,Predicted Value
+Colaba,2024,Total Population,1718046
+Colaba,2024,Total Males,874701
+Colaba,2024,Total Females,843345
+Colaba,2024,Air Quality,215
+Colaba,2024,Traffic Emission,103
+Colaba,2024,Green Coverage,15
+Colaba,2024,Congestion in Area,93
+Colaba,2024,Fuel Consumption,9618
+Colaba,2024,Electricity Usage,19890
+Cuffe Parade,2024,Total Population,1188060
+Cuffe Parade,2024,Total Males,612124
+Cuffe Parade,2024,Total Females,575936
+Cuffe Parade,2024,Air Quality,294
+Cuffe Parade,2024,Traffic Emission,94
+Cuffe Parade,2024,Green Coverage,16
+Cuffe Parade,2024,Congestion in Area,74
+Cuffe Parade,2024,Fuel Consumption,6735
+Cuffe Parade,2024,Electricity Usage,12889
+Marine Lines,2024,Total Population,1017727
+Marine Lines,2024,Total Males,524525
+Marine Lines,2024,Total Females,493202
+Marine Lines,2024,Air Quality,276
+Marine Lines,2024,Traffic Emission,93
+Marine Lines,2024,Green Coverage,12
+Marine Lines,2024,Congestion in Area,95
+Marine Lines,2024,Fuel Consumption,5510
+Marine Lines,2024,Electricity Usage,10107
+Girgaon,2024,Total Population,918061
+Girgaon,2024,Total Males,472863
+Girgaon,2024,Total Females,445198
+Girgaon,2024,Air Quality,213
+Girgaon,2024,Traffic Emission,90
+Girgaon,2024,Green Coverage,10
+Girgaon,2024,Congestion in Area,78
+Girgaon,2024,Fuel Consumption,4857
+Girgaon,2024,Electricity Usage,11584
+Charni Road,2024,Total Population,1419337
+Charni Road,2024,Total Males,746621
+Charni Road,2024,Total Females,672717
+Charni Road,2024,Air Quality,217
+Charni Road,2024,Traffic Emission,95
+Charni Road,2024,Green Coverage,16
+Charni Road,2024,Congestion in Area,98
+Charni Road,2024,Fuel Consumption,5275
+Charni Road,2024,Electricity Usage,15595
+Grant Road,2024,Total Population,1325398
+Grant Road,2024,Total Males,688458
+Grant Road,2024,Total Females,636941
+Grant Road,2024,Air Quality,268
+Grant Road,2024,Traffic Emission,91
+Grant Road,2024,Green Coverage,18
+Grant Road,2024,Congestion in Area,86
+Grant Road,2024,Fuel Consumption,5731
+Grant Road,2024,Electricity Usage,11424
+Mumbai Central,2024,Total Population,1488482
+Mumbai Central,2024,Total Males,758978
+Mumbai Central,2024,Total Females,729504
+Mumbai Central,2024,Air Quality,289
+Mumbai Central,2024,Traffic Emission,84
+Mumbai Central,2024,Green Coverage,17
+Mumbai Central,2024,Congestion in Area,89
+Mumbai Central,2024,Fuel Consumption,6797
+Mumbai Central,2024,Electricity Usage,11576
+Byculla,2024,Total Population,1552034
+Byculla,2024,Total Males,808250
+Byculla,2024,Total Females,743784
+Byculla,2024,Air Quality,190
+Byculla,2024,Traffic Emission,86
+Byculla,2024,Green Coverage,16
+Byculla,2024,Congestion in Area,83
+Byculla,2024,Fuel Consumption,9100
+Byculla,2024,Electricity Usage,14408
+Sandhurst Road,2024,Total Population,1353324
+Sandhurst Road,2024,Total Males,708085
+Sandhurst Road,2024,Total Females,645239
+Sandhurst Road,2024,Air Quality,226
+Sandhurst Road,2024,Traffic Emission,86
+Sandhurst Road,2024,Green Coverage,17
+Sandhurst Road,2024,Congestion in Area,87
+Sandhurst Road,2024,Fuel Consumption,8088
+Sandhurst Road,2024,Electricity Usage,15224
+Mazgaon,2024,Total Population,1016136
+Mazgaon,2024,Total Males,516392
+Mazgaon,2024,Total Females,499744
+Mazgaon,2024,Air Quality,238
+Mazgaon,2024,Traffic Emission,100
+Mazgaon,2024,Green Coverage,17
+Mazgaon,2024,Congestion in Area,78
+Mazgaon,2024,Fuel Consumption,5197
+Mazgaon,2024,Electricity Usage,9625
+Dockyard Road,2024,Total Population,1665900
+Dockyard Road,2024,Total Males,865579
+Dockyard Road,2024,Total Females,800321
+Dockyard Road,2024,Air Quality,312
+Dockyard Road,2024,Traffic Emission,93
+Dockyard Road,2024,Green Coverage,11
+Dockyard Road,2024,Congestion in Area,81
+Dockyard Road,2024,Fuel Consumption,8044
+Dockyard Road,2024,Electricity Usage,16064
+Reay Road,2024,Total Population,961097
+Reay Road,2024,Total Males,501504
+Reay Road,2024,Total Females,459593
+Reay Road,2024,Air Quality,243
+Reay Road,2024,Traffic Emission,96
+Reay Road,2024,Green Coverage,14
+Reay Road,2024,Congestion in Area,84
+Reay Road,2024,Fuel Consumption,4518
+Reay Road,2024,Electricity Usage,9472
+Cotton Green,2024,Total Population,978965
+Cotton Green,2024,Total Males,504761
+Cotton Green,2024,Total Females,474204
+Cotton Green,2024,Air Quality,289
+Cotton Green,2024,Traffic Emission,91
+Cotton Green,2024,Green Coverage,17
+Cotton Green,2024,Congestion in Area,85
+Cotton Green,2024,Fuel Consumption,4688
+Cotton Green,2024,Electricity Usage,8175
+Mahalaxmi,2024,Total Population,1403402
+Mahalaxmi,2024,Total Males,727084
+Mahalaxmi,2024,Total Females,676318
+Mahalaxmi,2024,Air Quality,262
+Mahalaxmi,2024,Traffic Emission,90
+Mahalaxmi,2024,Green Coverage,11
+Mahalaxmi,2024,Congestion in Area,73
+Mahalaxmi,2024,Fuel Consumption,6026
+Mahalaxmi,2024,Electricity Usage,15805
+Tardeo,2024,Total Population,1527906
+Tardeo,2024,Total Males,794600
+Tardeo,2024,Total Females,733306
+Tardeo,2024,Air Quality,260
+Tardeo,2024,Traffic Emission,94
+Tardeo,2024,Green Coverage,13
+Tardeo,2024,Congestion in Area,97
+Tardeo,2024,Fuel Consumption,6668
+Tardeo,2024,Electricity Usage,11785
+Parel,2024,Total Population,1320706
+Parel,2024,Total Males,689047
+Parel,2024,Total Females,631660
+Parel,2024,Air Quality,208
+Parel,2024,Traffic Emission,96
+Parel,2024,Green Coverage,11
+Parel,2024,Congestion in Area,72
+Parel,2024,Fuel Consumption,6694
+Parel,2024,Electricity Usage,11224
+Sewri,2024,Total Population,1656481
+Sewri,2024,Total Males,847745
+Sewri,2024,Total Females,808736
+Sewri,2024,Air Quality,202
+Sewri,2024,Traffic Emission,87
+Sewri,2024,Green Coverage,10
+Sewri,2024,Congestion in Area,77
+Sewri,2024,Fuel Consumption,8034
+Sewri,2024,Electricity Usage,19352
+Wadala,2024,Total Population,1351895
+Wadala,2024,Total Males,690203
+Wadala,2024,Total Females,661692
+Wadala,2024,Air Quality,293
+Wadala,2024,Traffic Emission,91
+Wadala,2024,Green Coverage,14
+Wadala,2024,Congestion in Area,69
+Wadala,2024,Fuel Consumption,5999
+Wadala,2024,Electricity Usage,15121
+Lower Parel,2024,Total Population,1127585
+Lower Parel,2024,Total Males,588781
+Lower Parel,2024,Total Females,538804
+Lower Parel,2024,Air Quality,295
+Lower Parel,2024,Traffic Emission,97
+Lower Parel,2024,Green Coverage,13
+Lower Parel,2024,Congestion in Area,76
+Lower Parel,2024,Fuel Consumption,4808
+Lower Parel,2024,Electricity Usage,10932
+Prabhadevi,2024,Total Population,1157107
+Prabhadevi,2024,Total Males,605868
+Prabhadevi,2024,Total Females,551239
+Prabhadevi,2024,Air Quality,261
+Prabhadevi,2024,Traffic Emission,91
+Prabhadevi,2024,Green Coverage,13
+Prabhadevi,2024,Congestion in Area,86
+Prabhadevi,2024,Fuel Consumption,4463
+Prabhadevi,2024,Electricity Usage,13312
+Elphinstone,2024,Total Population,1525746
+Elphinstone,2024,Total Males,780896
+Elphinstone,2024,Total Females,744850
+Elphinstone,2024,Air Quality,272
+Elphinstone,2024,Traffic Emission,92
+Elphinstone,2024,Green Coverage,12
+Elphinstone,2024,Congestion in Area,78
+Elphinstone,2024,Fuel Consumption,7841
+Elphinstone,2024,Electricity Usage,15679
+Dadar East,2024,Total Population,1413479
+Dadar East,2024,Total Males,729682
+Dadar East,2024,Total Females,683797
+Dadar East,2024,Air Quality,192
+Dadar East,2024,Traffic Emission,92
+Dadar East,2024,Green Coverage,13
+Dadar East,2024,Congestion in Area,75
+Dadar East,2024,Fuel Consumption,7973
+Dadar East,2024,Electricity Usage,15660
+Dadar West,2024,Total Population,1490521
+Dadar West,2024,Total Males,767366
+Dadar West,2024,Total Females,723156
+Dadar West,2024,Air Quality,304
+Dadar West,2024,Traffic Emission,96
+Dadar West,2024,Green Coverage,16
+Dadar West,2024,Congestion in Area,80
+Dadar West,2024,Fuel Consumption,8790
+Dadar West,2024,Electricity Usage,12188
+Matunga,2024,Total Population,1129200
+Matunga,2024,Total Males,589318
+Matunga,2024,Total Females,539882
+Matunga,2024,Air Quality,263
+Matunga,2024,Traffic Emission,86
+Matunga,2024,Green Coverage,15
+Matunga,2024,Congestion in Area,73
+Matunga,2024,Fuel Consumption,5506
+Matunga,2024,Electricity Usage,10346
+King Circle,2024,Total Population,1036901
+King Circle,2024,Total Males,540462
+King Circle,2024,Total Females,496438
+King Circle,2024,Air Quality,238
+King Circle,2024,Traffic Emission,95
+King Circle,2024,Green Coverage,14
+King Circle,2024,Congestion in Area,91
+King Circle,2024,Fuel Consumption,5991
+King Circle,2024,Electricity Usage,10086
+Sion East,2024,Total Population,1068557
+Sion East,2024,Total Males,545948
+Sion East,2024,Total Females,522609
+Sion East,2024,Air Quality,292
+Sion East,2024,Traffic Emission,89
+Sion East,2024,Green Coverage,11
+Sion East,2024,Congestion in Area,86
+Sion East,2024,Fuel Consumption,6660
+Sion East,2024,Electricity Usage,12890
+Sion West,2024,Total Population,942881
+Sion West,2024,Total Males,486559
+Sion West,2024,Total Females,456321
+Sion West,2024,Air Quality,273
+Sion West,2024,Traffic Emission,92
+Sion West,2024,Green Coverage,14
+Sion West,2024,Congestion in Area,68
+Sion West,2024,Fuel Consumption,4694
+Sion West,2024,Electricity Usage,10177
+Andheri East,2024,Total Population,1096234
+Andheri East,2024,Total Males,564645
+Andheri East,2024,Total Females,531590
+Andheri East,2024,Air Quality,223
+Andheri East,2024,Traffic Emission,96
+Andheri East,2024,Green Coverage,10
+Andheri East,2024,Congestion in Area,83
+Andheri East,2024,Fuel Consumption,4916
+Andheri East,2024,Electricity Usage,9696
+Andheri West,2024,Total Population,1155473
+Andheri West,2024,Total Males,599297
+Andheri West,2024,Total Females,556176
+Andheri West,2024,Air Quality,269
+Andheri West,2024,Traffic Emission,91
+Andheri West,2024,Green Coverage,16
+Andheri West,2024,Congestion in Area,74
+Andheri West,2024,Fuel Consumption,5043
+Andheri West,2024,Electricity Usage,14032
+Juhu,2024,Total Population,1552761
+Juhu,2024,Total Males,819093
+Juhu,2024,Total Females,733668
+Juhu,2024,Air Quality,230
+Juhu,2024,Traffic Emission,92
+Juhu,2024,Green Coverage,15
+Juhu,2024,Congestion in Area,90
+Juhu,2024,Fuel Consumption,8406
+Juhu,2024,Electricity Usage,15774
+Versova,2024,Total Population,1327978
+Versova,2024,Total Males,695967
+Versova,2024,Total Females,632010
+Versova,2024,Air Quality,283
+Versova,2024,Traffic Emission,91
+Versova,2024,Green Coverage,15
+Versova,2024,Congestion in Area,76
+Versova,2024,Fuel Consumption,6116
+Versova,2024,Electricity Usage,16042
+Vile Parle,2024,Total Population,1132675
+Vile Parle,2024,Total Males,596211
+Vile Parle,2024,Total Females,536464
+Vile Parle,2024,Air Quality,350
+Vile Parle,2024,Traffic Emission,88
+Vile Parle,2024,Green Coverage,11
+Vile Parle,2024,Congestion in Area,84
+Vile Parle,2024,Fuel Consumption,5013
+Vile Parle,2024,Electricity Usage,10283
+Santacruz,2024,Total Population,1114640
+Santacruz,2024,Total Males,572028
+Santacruz,2024,Total Females,542612
+Santacruz,2024,Air Quality,241
+Santacruz,2024,Traffic Emission,94
+Santacruz,2024,Green Coverage,13
+Santacruz,2024,Congestion in Area,83
+Santacruz,2024,Fuel Consumption,6384
+Santacruz,2024,Electricity Usage,10731
+Bandra East,2024,Total Population,840447
+Bandra East,2024,Total Males,436781
+Bandra East,2024,Total Females,403666
+Bandra East,2024,Air Quality,175
+Bandra East,2024,Traffic Emission,84
+Bandra East,2024,Green Coverage,19
+Bandra East,2024,Congestion in Area,89
+Bandra East,2024,Fuel Consumption,4160
+Bandra East,2024,Electricity Usage,9850
+Bandra West,2024,Total Population,1129568
+Bandra West,2024,Total Males,600708
+Bandra West,2024,Total Females,528860
+Bandra West,2024,Air Quality,277
+Bandra West,2024,Traffic Emission,91
+Bandra West,2024,Green Coverage,16
+Bandra West,2024,Congestion in Area,73
+Bandra West,2024,Fuel Consumption,5437
+Bandra West,2024,Electricity Usage,9542
+Mahim,2024,Total Population,1539906
+Mahim,2024,Total Males,785892
+Mahim,2024,Total Females,754014
+Mahim,2024,Air Quality,172
+Mahim,2024,Traffic Emission,95
+Mahim,2024,Green Coverage,11
+Mahim,2024,Congestion in Area,77
+Mahim,2024,Fuel Consumption,8283
+Mahim,2024,Electricity Usage,15544
+Dadar,2024,Total Population,964164
+Dadar,2024,Total Males,498487
+Dadar,2024,Total Females,465677
+Dadar,2024,Air Quality,199
+Dadar,2024,Traffic Emission,99
+Dadar,2024,Green Coverage,20
+Dadar,2024,Congestion in Area,97
+Dadar,2024,Fuel Consumption,4952
+Dadar,2024,Electricity Usage,9797
+Worli,2024,Total Population,1154729
+Worli,2024,Total Males,602998
+Worli,2024,Total Females,551731
+Worli,2024,Air Quality,279
+Worli,2024,Traffic Emission,94
+Worli,2024,Green Coverage,16
+Worli,2024,Congestion in Area,80
+Worli,2024,Fuel Consumption,6516
+Worli,2024,Electricity Usage,12013
+Ghatkopar,2024,Total Population,855526
+Ghatkopar,2024,Total Males,450736
+Ghatkopar,2024,Total Females,404790
+Ghatkopar,2024,Air Quality,296
+Ghatkopar,2024,Traffic Emission,91
+Ghatkopar,2024,Green Coverage,15
+Ghatkopar,2024,Congestion in Area,90
+Ghatkopar,2024,Fuel Consumption,4394
+Ghatkopar,2024,Electricity Usage,6679
+Chembur,2024,Total Population,1145573
+Chembur,2024,Total Males,594223
+Chembur,2024,Total Females,551350
+Chembur,2024,Air Quality,173
+Chembur,2024,Traffic Emission,87
+Chembur,2024,Green Coverage,16
+Chembur,2024,Congestion in Area,83
+Chembur,2024,Fuel Consumption,5993
+Chembur,2024,Electricity Usage,12406
+Sion,2024,Total Population,1224025
+Sion,2024,Total Males,635209
+Sion,2024,Total Females,588816
+Sion,2024,Air Quality,242
+Sion,2024,Traffic Emission,83
+Sion,2024,Green Coverage,17
+Sion,2024,Congestion in Area,84
+Sion,2024,Fuel Consumption,6390
+Sion,2024,Electricity Usage,11132
+Kurla,2024,Total Population,991620
+Kurla,2024,Total Males,527568
+Kurla,2024,Total Females,464052
+Kurla,2024,Air Quality,213
+Kurla,2024,Traffic Emission,89
+Kurla,2024,Green Coverage,16
+Kurla,2024,Congestion in Area,92
+Kurla,2024,Fuel Consumption,5145
+Kurla,2024,Electricity Usage,9010
+Chunabhatti,2024,Total Population,1032832
+Chunabhatti,2024,Total Males,533671
+Chunabhatti,2024,Total Females,499160
+Chunabhatti,2024,Air Quality,284
+Chunabhatti,2024,Traffic Emission,89
+Chunabhatti,2024,Green Coverage,12
+Chunabhatti,2024,Congestion in Area,83
+Chunabhatti,2024,Fuel Consumption,5091
+Chunabhatti,2024,Electricity Usage,9612
+Vidyavihar,2024,Total Population,1410103
+Vidyavihar,2024,Total Males,721836
+Vidyavihar,2024,Total Females,688267
+Vidyavihar,2024,Air Quality,265
+Vidyavihar,2024,Traffic Emission,87
+Vidyavihar,2024,Green Coverage,16
+Vidyavihar,2024,Congestion in Area,91
+Vidyavihar,2024,Fuel Consumption,8114
+Vidyavihar,2024,Electricity Usage,13347
+Kanjurmarg,2024,Total Population,1334819
+Kanjurmarg,2024,Total Males,691989
+Kanjurmarg,2024,Total Females,642830
+Kanjurmarg,2024,Air Quality,232
+Kanjurmarg,2024,Traffic Emission,88
+Kanjurmarg,2024,Green Coverage,12
+Kanjurmarg,2024,Congestion in Area,82
+Kanjurmarg,2024,Fuel Consumption,6672
+Kanjurmarg,2024,Electricity Usage,13368
+Nahur,2024,Total Population,1604889
+Nahur,2024,Total Males,822316
+Nahur,2024,Total Females,782573
+Nahur,2024,Air Quality,167
+Nahur,2024,Traffic Emission,92
+Nahur,2024,Green Coverage,10
+Nahur,2024,Congestion in Area,71
+Nahur,2024,Fuel Consumption,6438
+Nahur,2024,Electricity Usage,14745
+Thane,2024,Total Population,1114001
+Thane,2024,Total Males,575693
+Thane,2024,Total Females,538308
+Thane,2024,Air Quality,252
+Thane,2024,Traffic Emission,88
+Thane,2024,Green Coverage,14
+Thane,2024,Congestion in Area,81
+Thane,2024,Fuel Consumption,4544
+Thane,2024,Electricity Usage,12056
+Kalwa,2024,Total Population,1633748
+Kalwa,2024,Total Males,850128
+Kalwa,2024,Total Females,783619
+Kalwa,2024,Air Quality,272
+Kalwa,2024,Traffic Emission,97
+Kalwa,2024,Green Coverage,8
+Kalwa,2024,Congestion in Area,86
+Kalwa,2024,Fuel Consumption,7770
+Kalwa,2024,Electricity Usage,17676
+Ghodbunder,2024,Total Population,1059810
+Ghodbunder,2024,Total Males,556137
+Ghodbunder,2024,Total Females,503673
+Ghodbunder,2024,Air Quality,232
+Ghodbunder,2024,Traffic Emission,87
+Ghodbunder,2024,Green Coverage,14
+Ghodbunder,2024,Congestion in Area,98
+Ghodbunder,2024,Fuel Consumption,5982
+Ghodbunder,2024,Electricity Usage,9627
+Owale,2024,Total Population,1189152
+Owale,2024,Total Males,615301
+Owale,2024,Total Females,573851
+Owale,2024,Air Quality,239
+Owale,2024,Traffic Emission,92
+Owale,2024,Green Coverage,14
+Owale,2024,Congestion in Area,86
+Owale,2024,Fuel Consumption,6637
+Owale,2024,Electricity Usage,11913
+Manpada,2024,Total Population,1474117
+Manpada,2024,Total Males,751665
+Manpada,2024,Total Females,722452
+Manpada,2024,Air Quality,245
+Manpada,2024,Traffic Emission,91
+Manpada,2024,Green Coverage,15
+Manpada,2024,Congestion in Area,85
+Manpada,2024,Fuel Consumption,7611
+Manpada,2024,Electricity Usage,15377
+Hiranandani Estate,2024,Total Population,1664918
+Hiranandani Estate,2024,Total Males,881961
+Hiranandani Estate,2024,Total Females,782957
+Hiranandani Estate,2024,Air Quality,188
+Hiranandani Estate,2024,Traffic Emission,94
+Hiranandani Estate,2024,Green Coverage,16
+Hiranandani Estate,2024,Congestion in Area,84
+Hiranandani Estate,2024,Fuel Consumption,9086
+Hiranandani Estate,2024,Electricity Usage,15109
+Balkum,2024,Total Population,989130
+Balkum,2024,Total Males,527142
+Balkum,2024,Total Females,461988
+Balkum,2024,Air Quality,284
+Balkum,2024,Traffic Emission,89
+Balkum,2024,Green Coverage,16
+Balkum,2024,Congestion in Area,84
+Balkum,2024,Fuel Consumption,5470
+Balkum,2024,Electricity Usage,8835
+Kolshet,2024,Total Population,1544151
+Kolshet,2024,Total Males,800920
+Kolshet,2024,Total Females,743230
+Kolshet,2024,Air Quality,279
+Kolshet,2024,Traffic Emission,93
+Kolshet,2024,Green Coverage,16
+Kolshet,2024,Congestion in Area,78
+Kolshet,2024,Fuel Consumption,7775
+Kolshet,2024,Electricity Usage,11875
+Borivali East,2024,Total Population,732426
+Borivali East,2024,Total Males,388118
+Borivali East,2024,Total Females,344308
+Borivali East,2024,Air Quality,118
+Borivali East,2024,Traffic Emission,88
+Borivali East,2024,Green Coverage,27
+Borivali East,2024,Congestion in Area,75
+Borivali East,2024,Fuel Consumption,3412
+Borivali East,2024,Electricity Usage,4734
+Borivali West,2024,Total Population,475220
+Borivali West,2024,Total Males,249710
+Borivali West,2024,Total Females,225510
+Borivali West,2024,Air Quality,157
+Borivali West,2024,Traffic Emission,87
+Borivali West,2024,Green Coverage,20
+Borivali West,2024,Congestion in Area,69
+Borivali West,2024,Fuel Consumption,2007
+Borivali West,2024,Electricity Usage,2820
+Kandivali East,2024,Total Population,1020649
+Kandivali East,2024,Total Males,525496
+Kandivali East,2024,Total Females,495154
+Kandivali East,2024,Air Quality,126
+Kandivali East,2024,Traffic Emission,77
+Kandivali East,2024,Green Coverage,34
+Kandivali East,2024,Congestion in Area,59
+Kandivali East,2024,Fuel Consumption,5618
+Kandivali East,2024,Electricity Usage,8254
+Kandivali West,2024,Total Population,553420
+Kandivali West,2024,Total Males,290385
+Kandivali West,2024,Total Females,263035
+Kandivali West,2024,Air Quality,160
+Kandivali West,2024,Traffic Emission,87
+Kandivali West,2024,Green Coverage,19
+Kandivali West,2024,Congestion in Area,56
+Kandivali West,2024,Fuel Consumption,3024
+Kandivali West,2024,Electricity Usage,4968
+Malad East,2024,Total Population,530208
+Malad East,2024,Total Males,279436
+Malad East,2024,Total Females,250772
+Malad East,2024,Air Quality,212
+Malad East,2024,Traffic Emission,84
+Malad East,2024,Green Coverage,34
+Malad East,2024,Congestion in Area,57
+Malad East,2024,Fuel Consumption,2869
+Malad East,2024,Electricity Usage,3966
+Malad West,2024,Total Population,767494
+Malad West,2024,Total Males,400389
+Malad West,2024,Total Females,367104
+Malad West,2024,Air Quality,191
+Malad West,2024,Traffic Emission,74
+Malad West,2024,Green Coverage,38
+Malad West,2024,Congestion in Area,58
+Malad West,2024,Fuel Consumption,4401
+Malad West,2024,Electricity Usage,6708
+Goregaon East,2024,Total Population,1020685
+Goregaon East,2024,Total Males,531656
+Goregaon East,2024,Total Females,489030
+Goregaon East,2024,Air Quality,148
+Goregaon East,2024,Traffic Emission,78
+Goregaon East,2024,Green Coverage,20
+Goregaon East,2024,Congestion in Area,71
+Goregaon East,2024,Fuel Consumption,4952
+Goregaon East,2024,Electricity Usage,9179
+Goregaon West,2024,Total Population,1125248
+Goregaon West,2024,Total Males,592297
+Goregaon West,2024,Total Females,532951
+Goregaon West,2024,Air Quality,133
+Goregaon West,2024,Traffic Emission,85
+Goregaon West,2024,Green Coverage,28
+Goregaon West,2024,Congestion in Area,67
+Goregaon West,2024,Fuel Consumption,5228
+Goregaon West,2024,Electricity Usage,8499
+Jogeshwari East,2024,Total Population,875915
+Jogeshwari East,2024,Total Males,460376
+Jogeshwari East,2024,Total Females,415538
+Jogeshwari East,2024,Air Quality,225
+Jogeshwari East,2024,Traffic Emission,82
+Jogeshwari East,2024,Green Coverage,21
+Jogeshwari East,2024,Congestion in Area,62
+Jogeshwari East,2024,Fuel Consumption,3754
+Jogeshwari East,2024,Electricity Usage,7436
+Jogeshwari West,2024,Total Population,883233
+Jogeshwari West,2024,Total Males,458961
+Jogeshwari West,2024,Total Females,424272
+Jogeshwari West,2024,Air Quality,155
+Jogeshwari West,2024,Traffic Emission,83
+Jogeshwari West,2024,Green Coverage,28
+Jogeshwari West,2024,Congestion in Area,58
+Jogeshwari West,2024,Fuel Consumption,3984
+Jogeshwari West,2024,Electricity Usage,7292
+Powai,2024,Total Population,852942
+Powai,2024,Total Males,446493
+Powai,2024,Total Females,406449
+Powai,2024,Air Quality,176
+Powai,2024,Traffic Emission,85
+Powai,2024,Green Coverage,23
+Powai,2024,Congestion in Area,77
+Powai,2024,Fuel Consumption,4083
+Powai,2024,Electricity Usage,5986
+Vikhroli,2024,Total Population,691303
+Vikhroli,2024,Total Males,357620
+Vikhroli,2024,Total Females,333684
+Vikhroli,2024,Air Quality,166
+Vikhroli,2024,Traffic Emission,72
+Vikhroli,2024,Green Coverage,28
+Vikhroli,2024,Congestion in Area,54
+Vikhroli,2024,Fuel Consumption,3508
+Vikhroli,2024,Electricity Usage,5165
+Bhandup,2024,Total Population,734072
+Bhandup,2024,Total Males,375492
+Bhandup,2024,Total Females,358580
+Bhandup,2024,Air Quality,129
+Bhandup,2024,Traffic Emission,80
+Bhandup,2024,Green Coverage,38
+Bhandup,2024,Congestion in Area,55
+Bhandup,2024,Fuel Consumption,3970
+Bhandup,2024,Electricity Usage,5064
+Mulund,2024,Total Population,1096637
+Mulund,2024,Total Males,577737
+Mulund,2024,Total Females,518899
+Mulund,2024,Air Quality,180
+Mulund,2024,Traffic Emission,77
+Mulund,2024,Green Coverage,26
+Mulund,2024,Congestion in Area,60
+Mulund,2024,Fuel Consumption,5839
+Mulund,2024,Electricity Usage,7182
+Mumbra,2024,Total Population,535548
+Mumbra,2024,Total Males,276011
+Mumbra,2024,Total Females,259537
+Mumbra,2024,Air Quality,225
+Mumbra,2024,Traffic Emission,79
+Mumbra,2024,Green Coverage,30
+Mumbra,2024,Congestion in Area,66
+Mumbra,2024,Fuel Consumption,2930
+Mumbra,2024,Electricity Usage,3782
+Bhiwandi,2024,Total Population,645100
+Bhiwandi,2024,Total Males,334799
+Bhiwandi,2024,Total Females,310301
+Bhiwandi,2024,Air Quality,162
+Bhiwandi,2024,Traffic Emission,83
+Bhiwandi,2024,Green Coverage,33
+Bhiwandi,2024,Congestion in Area,60
+Bhiwandi,2024,Fuel Consumption,3108
+Bhiwandi,2024,Electricity Usage,5602
+Shahapur,2024,Total Population,706911
+Shahapur,2024,Total Males,364619
+Shahapur,2024,Total Females,342292
+Shahapur,2024,Air Quality,183
+Shahapur,2024,Traffic Emission,85
+Shahapur,2024,Green Coverage,36
+Shahapur,2024,Congestion in Area,62
+Shahapur,2024,Fuel Consumption,3259
+Shahapur,2024,Electricity Usage,5019
+Kalyan,2024,Total Population,838012
+Kalyan,2024,Total Males,436029
+Kalyan,2024,Total Females,401983
+Kalyan,2024,Air Quality,195
+Kalyan,2024,Traffic Emission,86
+Kalyan,2024,Green Coverage,37
+Kalyan,2024,Congestion in Area,57
+Kalyan,2024,Fuel Consumption,4182
+Kalyan,2024,Electricity Usage,6891
+Dombivli,2024,Total Population,682255
+Dombivli,2024,Total Males,358043
+Dombivli,2024,Total Females,324212
+Dombivli,2024,Air Quality,228
+Dombivli,2024,Traffic Emission,78
+Dombivli,2024,Green Coverage,24
+Dombivli,2024,Congestion in Area,57
+Dombivli,2024,Fuel Consumption,3207
+Dombivli,2024,Electricity Usage,5205
+Ulhasnagar,2024,Total Population,458699
+Ulhasnagar,2024,Total Males,233444
+Ulhasnagar,2024,Total Females,225255
+Ulhasnagar,2024,Air Quality,205
+Ulhasnagar,2024,Traffic Emission,78
+Ulhasnagar,2024,Green Coverage,29
+Ulhasnagar,2024,Congestion in Area,54
+Ulhasnagar,2024,Fuel Consumption,2506
+Ulhasnagar,2024,Electricity Usage,3329
+Badlapur,2024,Total Population,815778
+Badlapur,2024,Total Males,420773
+Badlapur,2024,Total Females,395005
+Badlapur,2024,Air Quality,207
+Badlapur,2024,Traffic Emission,77
+Badlapur,2024,Green Coverage,25
+Badlapur,2024,Congestion in Area,51
+Badlapur,2024,Fuel Consumption,3364
+Badlapur,2024,Electricity Usage,5677
+Ambarnath,2024,Total Population,901061
+Ambarnath,2024,Total Males,466663
+Ambarnath,2024,Total Females,434398
+Ambarnath,2024,Air Quality,204
+Ambarnath,2024,Traffic Emission,81
+Ambarnath,2024,Green Coverage,31
+Ambarnath,2024,Congestion in Area,69
+Ambarnath,2024,Fuel Consumption,4226
+Ambarnath,2024,Electricity Usage,7777
+Panvel,2024,Total Population,1043312
+Panvel,2024,Total Males,546197
+Panvel,2024,Total Females,497114
+Panvel,2024,Air Quality,186
+Panvel,2024,Traffic Emission,89
+Panvel,2024,Green Coverage,40
+Panvel,2024,Congestion in Area,61
+Panvel,2024,Fuel Consumption,5468
+Panvel,2024,Electricity Usage,7303
+Mira Road,2024,Total Population,1086350
+Mira Road,2024,Total Males,554602
+Mira Road,2024,Total Females,531747
+Mira Road,2024,Air Quality,81
+Mira Road,2024,Traffic Emission,72
+Mira Road,2024,Green Coverage,34
+Mira Road,2024,Congestion in Area,58
+Mira Road,2024,Fuel Consumption,4914
+Mira Road,2024,Electricity Usage,8659
+Bhayandar,2024,Total Population,722209
+Bhayandar,2024,Total Males,379451
+Bhayandar,2024,Total Females,342759
+Bhayandar,2024,Air Quality,230
+Bhayandar,2024,Traffic Emission,71
+Bhayandar,2024,Green Coverage,42
+Bhayandar,2024,Congestion in Area,54
+Bhayandar,2024,Fuel Consumption,3040
+Bhayandar,2024,Electricity Usage,4621
+Dahisar,2024,Total Population,670548
+Dahisar,2024,Total Males,341886
+Dahisar,2024,Total Females,328662
+Dahisar,2024,Air Quality,191
+Dahisar,2024,Traffic Emission,74
+Dahisar,2024,Green Coverage,35
+Dahisar,2024,Congestion in Area,74
+Dahisar,2024,Fuel Consumption,3080
+Dahisar,2024,Electricity Usage,5396
+Vasai,2024,Total Population,1113871
+Vasai,2024,Total Males,572460
+Vasai,2024,Total Females,541412
+Vasai,2024,Air Quality,120
+Vasai,2024,Traffic Emission,81
+Vasai,2024,Green Coverage,35
+Vasai,2024,Congestion in Area,58
+Vasai,2024,Fuel Consumption,5294
+Vasai,2024,Electricity Usage,9013
+Nalasopara,2024,Total Population,1039747
+Nalasopara,2024,Total Males,539710
+Nalasopara,2024,Total Females,500037
+Nalasopara,2024,Air Quality,160
+Nalasopara,2024,Traffic Emission,88
+Nalasopara,2024,Green Coverage,23
+Nalasopara,2024,Congestion in Area,57
+Nalasopara,2024,Fuel Consumption,5050
+Nalasopara,2024,Electricity Usage,6577
+Virar,2024,Total Population,875775
+Virar,2024,Total Males,452350
+Virar,2024,Total Females,423425
+Virar,2024,Air Quality,156
+Virar,2024,Traffic Emission,75
+Virar,2024,Green Coverage,25
+Virar,2024,Congestion in Area,58
+Virar,2024,Fuel Consumption,4917
+Virar,2024,Electricity Usage,7284
+Dahanu,2024,Total Population,450953
+Dahanu,2024,Total Males,235240
+Dahanu,2024,Total Females,215713
+Dahanu,2024,Air Quality,76
+Dahanu,2024,Traffic Emission,62
+Dahanu,2024,Green Coverage,51
+Dahanu,2024,Congestion in Area,47
+Dahanu,2024,Fuel Consumption,1818
+Dahanu,2024,Electricity Usage,3110
+Palghar,2024,Total Population,256831
+Palghar,2024,Total Males,134354
+Palghar,2024,Total Females,122477
+Palghar,2024,Air Quality,60
+Palghar,2024,Traffic Emission,39
+Palghar,2024,Green Coverage,48
+Palghar,2024,Congestion in Area,30
+Palghar,2024,Fuel Consumption,979
+Palghar,2024,Electricity Usage,1331
+Boisar,2024,Total Population,253948
+Boisar,2024,Total Males,131487
+Boisar,2024,Total Females,122461
+Boisar,2024,Air Quality,71
+Boisar,2024,Traffic Emission,71
+Boisar,2024,Green Coverage,48
+Boisar,2024,Congestion in Area,36
+Boisar,2024,Fuel Consumption,1450
+Boisar,2024,Electricity Usage,1596
+Karjat,2024,Total Population,272869
+Karjat,2024,Total Males,143084
+Karjat,2024,Total Females,129785
+Karjat,2024,Air Quality,94
+Karjat,2024,Traffic Emission,80
+Karjat,2024,Green Coverage,57
+Karjat,2024,Congestion in Area,32
+Karjat,2024,Fuel Consumption,1256
+Karjat,2024,Electricity Usage,1717
+Khopoli,2024,Total Population,237560
+Khopoli,2024,Total Males,122499
+Khopoli,2024,Total Females,115062
+Khopoli,2024,Air Quality,95
+Khopoli,2024,Traffic Emission,71
+Khopoli,2024,Green Coverage,58
+Khopoli,2024,Congestion in Area,43
+Khopoli,2024,Fuel Consumption,1139
+Khopoli,2024,Electricity Usage,1107
+Uran,2024,Total Population,288903
+Uran,2024,Total Males,151554
+Uran,2024,Total Females,137349
+Uran,2024,Air Quality,147
+Uran,2024,Traffic Emission,67
+Uran,2024,Green Coverage,52
+Uran,2024,Congestion in Area,29
+Uran,2024,Fuel Consumption,1528
+Uran,2024,Electricity Usage,1318
+Alibaug,2024,Total Population,483978
+Alibaug,2024,Total Males,249159
+Alibaug,2024,Total Females,234818
+Alibaug,2024,Air Quality,108
+Alibaug,2024,Traffic Emission,64
+Alibaug,2024,Green Coverage,66
+Alibaug,2024,Congestion in Area,39
+Alibaug,2024,Fuel Consumption,2600
+Alibaug,2024,Electricity Usage,3279
+Pen,2024,Total Population,118929
+Pen,2024,Total Males,61378
+Pen,2024,Total Females,57550
+Pen,2024,Air Quality,74
+Pen,2024,Traffic Emission,49
+Pen,2024,Green Coverage,61
+Pen,2024,Congestion in Area,22
+Pen,2024,Fuel Consumption,622
+Pen,2024,Electricity Usage,768
+Murud,2024,Total Population,422851
+Murud,2024,Total Males,220888
+Murud,2024,Total Females,201964
+Murud,2024,Air Quality,107
+Murud,2024,Traffic Emission,76
+Murud,2024,Green Coverage,54
+Murud,2024,Congestion in Area,35
+Murud,2024,Fuel Consumption,2353
+Murud,2024,Electricity Usage,1751
+Matheran,2024,Total Population,477673
+Matheran,2024,Total Males,247635
+Matheran,2024,Total Females,230039
+Matheran,2024,Air Quality,115
+Matheran,2024,Traffic Emission,44
+Matheran,2024,Green Coverage,55
+Matheran,2024,Congestion in Area,32
+Matheran,2024,Fuel Consumption,2451
+Matheran,2024,Electricity Usage,2698
